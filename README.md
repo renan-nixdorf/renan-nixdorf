@@ -1,4 +1,4 @@
-<img src="/img/assets/cpu(1).svg">
+<img src="/img/assets/cpu.svg">
 
 ### Hi there 👋
 
