@@ -1,3 +1,5 @@
+![image]({/img/assets/cpu(1).svg})
+
 ### Hi there 👋
 
 <img src="/img/assets/charizard.gif" width='40px' height='40px'>
