@@ -3,6 +3,17 @@
   
 # Olá, eu sou o Renan Nixdorf! 👋
 
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>.
+- 🌱 &nbsp; Aprendendo mais sobre **TypeScript e Node.js**.
+
+![HTML5]('https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS]()
+![JavaScript]()
+![React]()
+![styled]()
+
+
 ## 🚀 Sobre mim
 👋 um desenvolvedor dedicado e focado com uma paixão por Programação. Minha habilidade de comunicação me permite colaborar efetivamente com as equipes e garantir que todos estejamos na mesma página. Estou constantemente buscando aprimorar minhas habilidades e contribuir para a comunidade. Vamos embarcar juntos nesta jornada de codificação. 🚀
 
