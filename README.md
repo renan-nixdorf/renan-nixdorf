@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="/img/assets/charizard.gif" width='20px' height='20px'>
+<img src="/img/assets/charizard.gif" width='40px' height='40px'>
 
 <!--
 **renan-nixdorf/renan-nixdorf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
