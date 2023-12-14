@@ -4,7 +4,7 @@
 # Olá, eu sou o Renan Nixdorf! 👋
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **Analise e Desenvolvimento de Sistemas** na <a href="link da sua faculdade">SUA FACULDADE</a>.
+- 🎓 Estudando **Analise e Desenvolvimento de Sistemas** na <a href="link da sua faculdade">instituição</a>.
 - 🌱 Aprendendo mais sobre **TypeScript e Node.js**.
 
 ## 🚀 Sobre mim
