@@ -13,9 +13,9 @@
 ## 🛠 Habilidades
 Tenho uma sólida compreensão de **HTML**, **CSS**, **JavaScript**, **React** e **styled-components**, que me permite criar interfaces de usuário ricas e interativas. Estou sempre buscando expandir meu conjunto de habilidades e atualmente estou aprendendo **TypeScript** e **Node.js** para aprimorar ainda mais minhas capacidades de desenvolvimento full-stack.
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 ## 💌 Entre em contato comigo: ⤵️
