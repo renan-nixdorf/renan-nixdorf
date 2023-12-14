@@ -4,8 +4,8 @@
 # Olá, eu sou o Renan Nixdorf! 👋
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **TypeScript e Node.js**.
+- 🎓 Estudando **Analise e Desenvolvimento de Sistemas** na <a href="link da sua faculdade">SUA FACULDADE</a>.
+- 🌱 Aprendendo mais sobre **TypeScript e Node.js**.
 
 ## 🚀 Sobre mim
 👋 um desenvolvedor dedicado e focado com uma paixão por Programação. Minha habilidade de comunicação me permite colaborar efetivamente com as equipes e garantir que todos estejamos na mesma página. Estou constantemente buscando aprimorar minhas habilidades e contribuir para a comunidade. Vamos embarcar juntos nesta jornada de codificação. 🚀
