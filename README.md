@@ -1,20 +1,12 @@
 <img src="/img/assets/cpu.svg">
+  
+# Olá, eu sou o Renan Nixdorf! 👋
 
-### Hi there 👋
+## 🚀 Sobre mim
+👋 um desenvolvedor dedicado e focado com uma paixão por Programação. Minha habilidade de comunicação me permite colaborar efetivamente com as equipes e garantir que todos estejamos na mesma página. Estou constantemente buscando aprimorar minhas habilidades e contribuir para a comunidade. Vamos embarcar juntos nesta jornada de codificação. 🚀
 
-<img src="/img/assets/charizard.gif" width='40px' height='40px'>
 
-<!--
-**renan-nixdorf/renan-nixdorf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🛠 Habilidades
+Tenho uma sólida compreensão de **HTML**, **CSS**, **JavaScript**, **React** e **styled-components**, que me permite criar interfaces de usuário ricas e interativas. Estou sempre buscando expandir meu conjunto de habilidades e atualmente estou aprendendo **TypeScript** e **Node.js** para aprimorar ainda mais minhas capacidades de desenvolvimento full-stack. Minha excelente comunicação e foco me ajudam a colaborar efetivamente com as equipes e a entregar projetos de alta qualidade no prazo. Vamos embarcar juntos nesta jornada de codificação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
