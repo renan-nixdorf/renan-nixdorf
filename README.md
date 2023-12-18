@@ -5,7 +5,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando **Analise e Desenvolvimento de Sistemas** na <a href="link da sua faculdade">instituição</a>.
-- 🌱 Aprendendo mais sobre **TypeScript e Node.js**.
+- 🌱 Aprendendo mais sobre **TypeScript**.
 
 ## 🚀 Sobre mim
 👋 um desenvolvedor dedicado e focado com uma paixão por Programação. Minha habilidade de comunicação me permite colaborar efetivamente com as equipes e garantir que todos estejamos na mesma página. Estou constantemente buscando aprimorar minhas habilidades e contribuir para a comunidade. Vamos embarcar juntos nesta jornada de codificação. 🚀
