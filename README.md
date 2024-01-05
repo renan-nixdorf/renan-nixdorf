@@ -32,7 +32,7 @@ Tenho uma sólida compreensão de **HTML**, **CSS**, **JavaScript**, **React** e
 ## 💌 Entre em contato comigo: ⤵️
 
 <p align="left">
-  <a href="renannixdorf@hotmail.com" title="Gmail">
+  <a href="#" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO_EMAIL" alt="Gmail"/></a>
 
   <a href="#" title="LinkedIn">
