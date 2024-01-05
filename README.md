@@ -33,8 +33,7 @@ Tenho uma sólida compreensão de **HTML**, **CSS**, **JavaScript**, **React** e
 
 <p align="left">
   <a href="mailto:renannixdorf@hotmail.com" title="Email">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO_EMAIL" alt="email"/>
-  </a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO_EMAIL" alt="email"/></a>
 
   <a href="https://www.linkedin.com/in/renan-bomfim-7217392a7/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
